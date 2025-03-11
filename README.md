@@ -1,1 +1,1 @@
-# sayi_toplami_ocak3.odev
+Sayı Toplamı - Veri Bilimi Ocak 3. Ödev
